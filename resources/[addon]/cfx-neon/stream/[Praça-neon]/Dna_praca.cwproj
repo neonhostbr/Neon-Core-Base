@@ -1,0 +1,59 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>anti_vdm.ymap</Item>
+    <Item>hei_dt1_13.ymap</Item>
+    <Item>hei_dt1_13_long_0.ymap</Item>
+    <Item>hei_dt1_13_strm_0.ymap</Item>
+    <Item>hei_dt1_rd1.ymap</Item>
+    <Item>hei_dt1_rd1_critical_1.ymap</Item>
+    <Item>hei_dt1_rd1_long_1.ymap</Item>
+    <Item>hei_dt1_rd1_strm_5.ymap</Item>
+    <Item>hei_dt1_rd1_strm_6.ymap</Item>
+    <Item>lotus_square.ymap</Item>
+    <Item>..\delegaciapmerj\delegaciapmerj\hei_sm_rd_strm_0.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>lotus_objects.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames>
+    <Item>dt1_13_0.ybn</Item>
+    <Item>dt1_rd1_3.ybn</Item>
+    <Item>hi@dt1_13_0.ybn</Item>
+    <Item>mah_antivdm.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>dt1_13_build1.ydr</Item>
+    <Item>dt1_13_build2.ydr</Item>
+    <Item>dt1_13_dtlb.ydr</Item>
+    <Item>dt1_rd1_r1_09.ydr</Item>
+    <Item>dt1_rd1_r1_10.ydr</Item>
+    <Item>dt1_rd1_r1_26.ydr</Item>
+    <Item>dt1_rd1_r1_27.ydr</Item>
+    <Item>dt1_rd1_r1_28.ydr</Item>
+    <Item>dt1_rd1_r1_ovly_45.ydr</Item>
+    <Item>mah_lamp.ydr</Item>
+    <Item>mah_seat.ydr</Item>
+    <Item>prop_bench_01b.ydr</Item>
+    <Item>prop_nox_fencegran.ydr</Item>
+    <Item>prop_nox_fencepeq.ydr</Item>
+    <Item>space_obj3.ydr</Item>
+    <Item>suporterodagigante.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames>
+    <Item>dt1_13_superlod_children.ydd</Item>
+    <Item>dt1_lod_12_13_22_23_children.ydd</Item>
+  </YddFilenames>
+  <YftFilenames />
+  <YtdFilenames>
+    <Item>dt1_13_cloth+hi.ytd</Item>
+    <Item>dt1_13_cloth.ytd</Item>
+    <Item>dt1_13_clothhi.ytd</Item>
+  </YtdFilenames>
+</CodeWalkerProject>

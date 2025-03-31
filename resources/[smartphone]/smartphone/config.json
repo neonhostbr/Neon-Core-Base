@@ -1,0 +1,103 @@
+{
+    "token": "MN295-YJCE4-K6F7S-M5PBE",
+    "client": {
+        "instagramLogo": "http://127.0.0.1/apps/instagram_hand.png",
+        "bankLogo": "http://127.0.0.1/apps/fleeca_hand3.png",
+        "tinderLogo": "http://127.0.0.1/apps/tinderlogo.png",
+        "tinderFlame": "http://127.0.0.1/apps/flame.png",
+        "twitterLogo": "http://127.0.0.1/apps/threa.png",
+        "apps": {
+            "calculator": "http://127.0.0.1/apps/calculator.png",
+            "notes": "http://127.0.0.1/apps/notes.png",
+            "settings": "http://127.0.0.1/apps/settings.webp",
+            "contacts": "http://127.0.0.1/apps/phone.webp",
+            "sms": "http://127.0.0.1/apps/sms.webp",
+            "gallery": "http://127.0.0.1/apps/photos.webp",
+            "phone": "http://127.0.0.1/apps/phone.webp",
+            "facetime": "https://rotbots.netlify.app/projects/smartphone/imagens/facetime.webp",
+            "instagram": { "name": "Instagram", "icon": "http://127.0.0.1/apps/instagram.png" },
+            "minesweeper": { "name": "Campo Minado", "icon": "http://127.0.0.1/apps/minado.png" },
+            "truco": "http://127.0.0.1/apps/truco.png",
+            "yellowpages": { "name": "Notas", "icon": "http://127.0.0.1/apps/yellowpages.png" },
+            "tinder": { "name": "Tinder", "icon": "http://127.0.0.1/apps/tinder.png" },
+            "olx": { "name": "olx", "icon": "http://127.0.0.1/apps/olx.png" },
+            "whatsapp": { "name": "zap", "icon": "http://127.0.0.1/apps/whatsapp.png" },
+            "tor": { "name": "Deep Web", "icon": "http://127.0.0.1/apps/tor.png"},
+            "bank": { "name": "bank", "icon": "http://127.0.0.1/apps/SANTABANK.png"},
+            "paypal": { "name": "Paypal", "icon": "http://127.0.0.1/apps/orlandapay.png"},
+            "twitter": { "name": "Threads", "icon": "http://127.0.0.1/apps/threads.png"},
+            "iFood": "http://127.0.0.1/apps/ifood.png",
+            "Uber": "http://127.0.0.1/apps/uber23.png",
+            "weazel": { "name": "News", "icon": "http://127.0.0.1/apps/weazel.png" },
+            "casino": { "name": "blaze", "icon": "http://127.0.0.1/apps/unknown2.png" },
+            "spotify": {"name": "Spotify","icon": "http://127.0.0.1/apps/spotify.webp"}       
+          },
+        "bankType": "fleeca",
+        "uploadServer": "http://127.0.0.1/jester/index.php",
+        "allowUnsafeURL": true,
+        "videoServer": "ws://127.0.0.1:8080/",
+        "case": "iphone14pro",
+        "isAndroid": false,
+        "useGameClock": false,
+        "phone_template": "XXX-XXX",
+        "backgroundURL": "http://127.0.0.1/apps/back3.png",
+        "db_driver": "oxmysql",
+        "ringSound": "http://127.0.0.1/apps/ring.ogg",
+        "notificationSound": "http://127.0.0.1/apps/notification.ogg"
+    },
+    "exclusive": {
+        "weazel": {
+            "tags": [
+                "Noticias", "Topics"
+            ],
+            "permission": "Admin"
+        },
+        "casino": {
+            "maxBet": 10000
+        }
+    },
+    "call_mode": "pma-voice",
+    "webhookURL": "https://discord.com/api/webhooks/1353174733423640668/rjnw_W1TFfr6hwQ-nOOhi8KKcX2oz0z9EjhPmVTWWCqIuq656HodLK6bUNdLgew516DU",
+    "instagram_verify": [
+        "Admin",
+        "Premium"
+    ],
+    "weazel_tags": "Admin",
+    "instagram_accounts": {
+        "*": 1,
+        "Admin": 2
+    },
+    "moderator": "Admin",
+    "item": "cellphone",
+    "tor_blocked": [
+        "LSPD"
+    ],
+    "services": [
+        {
+            "name": "Prefeitura",
+            "number": "4002 8922",
+            "permission": "Admin",
+            "dev": false
+        },
+        {
+            "name": "Policia",
+            "number": "190",
+            "permission": "LSPD",
+            "dev": false
+        },
+        {
+            "name": "Paramédico",
+            "number": "192",
+            "permission": "Paramedico",
+            "dev": false
+        },
+        {
+            "name": "Mecânico",
+            "number": "0800 042",
+            "permission": "Bennys",
+            "dev": false
+        }
+    ],
+    "base": "creative_rework",
+    "channel": "stable"
+}

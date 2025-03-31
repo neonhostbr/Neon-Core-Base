@@ -1,0 +1,20 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>..\..\[bottom]\ymap\hei_cs3_08.ymap</Item>
+    <Item>..\..\[bottom]\ymap\hei_cs3_08_critical_2.ymap</Item>
+    <Item>..\..\[bottom]\ymap\hei_cs3_08_critical_7.ymap</Item>
+    <Item>..\..\[bottom]\ymap\hei_cs3_08_long_3.ymap</Item>
+    <Item>..\..\[bottom]\ymap\hei_cs3_08_strm_1.ymap</Item>
+    <Item>..\..\[bottom]\ymap\hei_cs3_occl_01.ymap</Item>
+    <Item>..\..\[bottom]\interior\russ_satansangels_map.ymap</Item>
+    <Item>..\..\[bottom]\interior\russ_satansangels_milo_.ymap</Item>
+    <Item>russ_satansangels_garage_milo_.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+</CodeWalkerProject>
